@@ -1,0 +1,10 @@
+.logo {
+  position: absolute;
+  opacity: 0.2;
+  right: -170px;
+  bottom: -100px;
+}
+
+.card {
+  overflow: hidden;
+}
