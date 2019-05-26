@@ -18,6 +18,7 @@ class App extends Component {
             <Route path="/todo" component={Views.Todo} />
             <Route exact path="/posts" component={Views.Posts} />
             <Route path="/posts/:post_id" component={Views.PostEdit} />
+            <Route path="/cards" component={Views.Cards} />
           </div>
         </div>
       </BrowserRouter>

@@ -1,11 +1,9 @@
 import React, { Component } from 'react'
 import { Link } from 'react-router-dom'
-import axios from 'axios'
+//import axios from 'axios'
 import BackGround from '../../assets/bg2.png'
 import Logo from '../../assets/logo.svg'
-
 import { connect } from 'react-redux'
-
 import './Posts.css'
 
 class Posts extends Component {

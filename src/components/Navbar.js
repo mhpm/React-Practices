@@ -41,6 +41,11 @@ const Navbar = props => {
               Todo
             </NavLink>
           </li>
+          <li className="nav-item">
+            <NavLink className="nav-link" to="/cards">
+              Cards
+            </NavLink>
+          </li>
         </ul>
       </div>
     </nav>
